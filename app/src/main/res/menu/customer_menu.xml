@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home_customer"
+        android:title="Home"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:id="@+id/promo"
+        android:title="Promo"
+        app:showAsAction="never" />
+
+    <item
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:id="@+id/brosur"
+        android:title="Brosur Mobil"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/logout_customer"
+        android:title="Log Out"
+        app:showAsAction="never" />
+</menu>

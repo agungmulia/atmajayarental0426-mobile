@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Atma Jaya Rental</string>
+    <string name="NAMA_CUSTOMER">Nama</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="prodi">Prodi</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="tambah_mahasiswa">Tambah Mahasiswa</string>
+    <string name="edit_mahasiswa">Edit Mahasiswa</string>
+    <string name="loading_text">Loading...</string>
+</resources>

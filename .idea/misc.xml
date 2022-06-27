@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/drawable-v24/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_add_rating.xml" value="0.23956043956043957" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_brosur.xml" value="0.5144694533762058" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_driver.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_laporan_penyewaan.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_manager_menu.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_pendapatan.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_performa_driver.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_profil_driver.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_promo.xml" value="0.2" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_tampil_transaksi.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_top_customer.xml" value="0.152" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/activity_top_driver.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/item_brosur.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/item_driver.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/item_laporan_penyewaan.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/item_pendapatan.xml" value="0.4" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/item_performa_driver.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/item_promo.xml" value="0.4" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/item_top_customer.xml" value="0.4" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/item_top_driver.xml" value="0.4097693351424695" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/item_transaksi.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/layout_loading.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/layout/layout_select_media.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/menu/customer_menu.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/menu/driver_menu.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/menu/menu_driver.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AtmaJayaRental_0426/app/src/main/res/menu/menu_logout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
